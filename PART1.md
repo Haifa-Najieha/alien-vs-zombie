@@ -22,6 +22,7 @@ List all the features not yet done. Remove this section if there is no incomplet
 
 1. Quit the game.
 2. Main menu.
+3. Zombie functions.
 
 ## Additional Features
 
@@ -52,14 +53,17 @@ List down the contribution of each group members.
 
 _Problems_  
 
-1.
-2.
-3.
+1. Zombie functions - Cannot put a number of zombies.
+2. Zombie movements - Did not finished yet.
+3. Alien collecting the ports
+4. Alien attributes - Only able to move to one position only.
+5. Main menu - When user choose any number, they still can play the game.
 
 _Solutions_
 
-1.
-2.
-3.
+1. Recheck all the functions again.
+2. Explore more functions and struggle more.
+3. Need to put a loop so that alien can move more positions.
+4. Suppose to go to the speficic part such as quit.
 
 
