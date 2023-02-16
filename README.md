@@ -1,16 +1,10 @@
 # Alien vs. Zombie
 
-Morgan Stark is a child prodigy just like his father Tony Stark when he was young. At five years old, she
-self-taught herself C++ and mastered the concepts of structured programming and object-based
-programming.
+Aina has a son named Mikael who loves to play video games. Mikael wants to play games that only contain Aliens and Zombies as the characters. Since Aina is a successful game developer in her company, she decides to create a game that inspired from an existing game which is Alien Path.
 
-Recently, she discovered a mobile game named Alien Path currently available in Android and iOS. In this
-game, the player navigates an alien on a path to destroy robots. It combines several elements of role-
-playing game, puzzle, path-planning, and strategy to provide a unique gaming experience.
+Aina gathered her teammates, Ain and Haifa to contribute their abilities in order to complete the game. This game combines RPG, puzzle, path-planning and strategy gaming experience. Players must eliminate enemies by cleverly navigating the aliens on a path to destroy the invading zombies. Every move counts, so set a path and pave the way to rescue their planet and eventually the galaxy.
 
-Morgan intends to put her programming skills to the test by developing a simplified, text-based version
-of this game, with several modifications of her own. She names her modified game as Alien vs. Zombie,
-due to her peculiar soft spot for aliens and zombies.
+This modified game named as Alien VS Zombie, is more than just a game. It enable players to be creative by planning their own path to eliminate zombie. Thus, help improve their critical thinking skills together with mathematical and logic problem solving skills. All in all, this game will provide players with unique experiences from other games.
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
