@@ -25,8 +25,6 @@ List all the features completed.
 
 ### To Do
 
-List all the features not yet done. Remove this section if there is no incomplete requirements.
-
 1. Alien or Zombie turns prompt. (Example : Alien's turn to move. // Zombie's turn to move)
 
 ## Additional Features
@@ -34,10 +32,6 @@ List all the features not yet done. Remove this section if there is no incomplet
 No additional features that has been implemented.
 
 ## Contributions
-
-List down the contribution of each group members.
-
-For example:
 
 ### AINA SOFEA BINTI AMIER HAMZAH
 
@@ -65,15 +59,16 @@ For example:
 
 Problems
 
-1. Zombie functions - Cannot put a number of zombies.
-2. Zombie movements - Did not finished yet.
-3. Alien collecting the ports
+1. Zombie functions - User cannot input number of zombies.
+2. Zombie movements - Unable to move randomly
+3. Alien collecting the pods
 4. Alien attributes - Only able to move to one position only.
 5. Main menu - When user choose any number, they still can play the game.
 
 Solutions
 
-1. Recheck all the functions again.
-2. Explore more functions and struggle more.
-3. Need to put a loop so that alien can move more positions.
-4. Use case function for the main menu.
+1. Implement standard input stream to allow user input.
+2. Implement rand() function for zombie movement.
+3. Create a function to detect pods and receive damage.
+4. Implement a while loop so that alien can move repeatedly.
+5. Use case function for the main menu.
