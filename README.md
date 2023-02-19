@@ -20,7 +20,10 @@ g++ main.cpp folder1\code.cpp folder2\code.cpp ......
 
 ## User Manual
 
-Please provide the user manual on how to use your program.
+1. Download or copy the main.cpp file.
+2. Open or paste the code in the Visual Studio Code application.
+3. Run the code by using terminal.
+4. Play the game.
 
 Please DO NOT change the Progress Log below. Leave it as it is.
 
