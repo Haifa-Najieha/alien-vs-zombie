@@ -6,8 +6,6 @@ Aina gathered her teammates, Ain and Haifa to contribute their abilities in orde
 
 This modified game named as Alien VS Zombie, is more than just a game. It enable players to be creative by planning their own path to eliminate zombie. Thus, help improve their critical thinking skills together with mathematical and logic problem solving skills. All in all, this game will provide players with unique experiences from other games.
 
-You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
-
 Please provide the YouTube link to your https://www.youtube.com/watch?v=qbwX5QvLPqM
 
 ## Compilation Instructions
